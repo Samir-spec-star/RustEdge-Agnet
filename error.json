@@ -1,0 +1,61 @@
+{
+  "E0004": "Ensure all match arms are covered or use _ as a wildcard. ",
+
+  "E0186": "Make the static method match the trait's signature.",
+
+  "E0136 ": "Keep only one main function.",
+
+  "E0044": "Remove type parameters from extern items.",
+
+  "E0026": "Ensure struct field names exist and are correctly spelled.",
+
+  "E0118": "Implement traits instead of using inherent impls for non:nominal types",
+
+  "E0070 ": "Assign values to mutable variables or use mut before assignment.",
+
+  "E0014": "Use const values/functions in a constant context.",
+
+  "E0254": " Rename conflicting extern crate declarations.",
+
+  "E0088": " Remove extra lifetime arguments.",
+
+  "E0425": "Check for typos or missing imports.",
+
+  "E0432": "Ensure the module is correctly imported.",
+
+  "E0117": "Follow the orphan rule by ensuring a local type is involved.",
+
+  "E0283": "Add explicit type annotations where necessary.",
+
+  "E0046": "Implement all required trait methods.",
+
+  "E0199": "Remove unsafe from trait implementations if it's not required.",
+
+  "E0297": " Use match or if let inside a loop for irrefutable patterns.",
+
+  "E0329": "Use a concrete type to access associated constants.",
+
+  "E0366": " Avoid specializing Drop in generic implementations.",
+
+  "E0164": "Use the correct struct or variant pattern in matches.",
+
+  "E0405": " Import the required trait into scope.",
+
+  "E0404": "Use a valid trait instead of a regular type.",
+
+  "E0267": " Use return or move in closures instead of loop keywords.",
+
+  "E0191": " Specify associated types in trait objects.",
+
+  "E0170": " Fully qualify enum variant names when ambiguous.",
+
+  "E0255": "Rename conflicting items or use aliases.",
+
+  "E0262": "Use a valid lifetime identifier.",
+
+  "E0391": " Break cyclic dependencies in type definitions.",
+
+  "E0165": "Use loop with let instead of while let for irrefutable patterns.",
+
+  "E0328": " Use CoerceUnsized instead of manually implementing Unsize."
+}
